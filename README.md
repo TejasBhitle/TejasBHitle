@@ -1,11 +1,5 @@
-### <a href="https://www.linkedin.com/in/tejasbhitle/">Tejas Bhitle</a>
-[![Linkedin Badge](https://img.shields.io/badge/-tejasbhitle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejasbhitle/)](https://www.linkedin.com/in/tejasbhitle/)
-[![Gmail Badge](https://img.shields.io/badge/-bhitletejas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhitletejas@gmail.com)](mailto:bhitletejas@gmail.com)
-
-
-<!--
-<a href="https://tejasbhitle.github.io/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasbhitle&repo=tejasbhitle.github.io&theme=github_dark"></a>
--->
+### Hi there <a href="https://tejasbhitle.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
